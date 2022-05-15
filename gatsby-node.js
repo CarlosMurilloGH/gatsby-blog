@@ -13,7 +13,7 @@
 //           }
 //     }
 //     `
-//     //Create paginated pagfes for posts
+//     //Create paginated pages for posts
 
 //     const postPerPage = 3
 

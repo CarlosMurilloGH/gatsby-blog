@@ -1,8 +1,11 @@
 import React from "react";
+import { Container } from "../components";
 
 const IndexPage =()=> {
   return (
-      <h1>Hello world</h1>
+      <Container>
+        <h1>Hello world</h1>
+      </Container>
   )
 }
 
